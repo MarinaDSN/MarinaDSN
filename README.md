@@ -18,7 +18,7 @@ I'm a passionate **C# developer** specializing in **WinForms, WPF, and SQL** tec
 - **Transaction & Treatment Service Entries:** Built secure and reliable transaction processing modules for treatment records.
 
 ## 🦦 Fun Facts
-- Lover of animals—my code is puppy and kitty approved!
+- Lover of animals!
 - Lake life is the best life: if I’m not coding, you’ll find me by the water.
 
 ---
